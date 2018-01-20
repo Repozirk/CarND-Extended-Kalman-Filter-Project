@@ -11,6 +11,8 @@ The goal of the project is to apply Extended Kalman Filter to fuse data from LID
 
 The project was created with the Udacity [Starter Code](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project).
 
+## [Rubric](https://review.udacity.com/#!/rubrics/748/view) Points
+
 
 ## Content of this repo
 - `scr` a directory with the project code:
