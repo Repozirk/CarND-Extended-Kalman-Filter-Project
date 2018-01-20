@@ -18,12 +18,12 @@ The project was created with the Udacity [Starter Code](https://github.com/udaci
   - `FusionEKF.cpp` - initializes the filter, calls the predict function, calls the update function
   - `kalman_filter.cpp`- defines the predict function, the update function for lidar, and the update function for radar
   - `tools.cpp` - a function to calculate RMSE and the Jacobian matrix
-- `data`  a directory with two input files, provided by Udacity
+- `data`  a directory, provided by Udacity
 - `results`  a directory with output and log files
-- `Docs` a directory with files formats description
-- `ide_profiles`
-- `CMakeLists.txt`
-- `README.md` Description of the Project by Udacity
+- `Docs` a directory with files formats description, provided by Udacity
+- `ide_profiles`, provided by Udacity
+- `CMakeLists.txt`, provided by Udacity
+- `README.md` Description of the Project, provided by Udacity
 - `writeup_template.md` for submission of this Project
 
 
