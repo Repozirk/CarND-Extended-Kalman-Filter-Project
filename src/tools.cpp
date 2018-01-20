@@ -72,10 +72,6 @@ MatrixXd Tools::CalculateJacobian(const VectorXd& x_state) {
 		c1 = 0.00001;
 	}
 
-  //if(fabs(px) < 0.00001 and fabs(py) < 0.00001){
-    //px = 0.00001;
-    //py = 0.00001;
-  //}
 
 	//compute the Jacobian matrix
 	Hj << (px/c2), (py/c2), 0, 0,
