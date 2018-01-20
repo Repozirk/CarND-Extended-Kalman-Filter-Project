@@ -11,6 +11,7 @@ The goal of the project is to apply Extended Kalman Filter to fuse data from LID
 
 The project was created with the Udacity [Starter Code](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project).
 
+
 ## Content of this repo
 - `scr` a directory with the project code:
   - `main.cpp` - reads in data, calls a function to run the Kalman filter, calls a function to calculate RMSE
@@ -25,7 +26,8 @@ The project was created with the Udacity [Starter Code](https://github.com/udaci
 - `README.md` Description of the Project by Udacity
 - `writeup_template.md` for submission of this Project
 
-##Result
+
+## Result
 The RMSE are both (Dataset_1 and Datatset_2) below the RMSE values  [x: 0.11; y: 0.11; vx: 0.52; vy: 0.52]. 
 
 
